@@ -1,0 +1,6 @@
+- [x] Create new.ejs with Bootstrap styling and navbar
+- [x] Update index.ejs: Add Bootstrap, navbar, style posts as cards
+- [x] Update login.ejs: Add Bootstrap, navbar, style form
+- [x] Update admin.ejs: Remove vuln button/script, add Bootstrap, navbar, style dashboard
+- [x] Update edit.ejs: Add Bootstrap, navbar, style form
+- [x] Test the app
